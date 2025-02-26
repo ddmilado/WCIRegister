@@ -102,6 +102,8 @@ export default function SignInCoordinator() {
               <option value="Abu Hail">Abu Hail</option>
               <option value="AL Nahda">AL Nahda</option>
               <option value="Satwa">Satwa</option>
+              <option value="International City">International City</option>
+              <option value="Sonapur">Sonapur</option>
             </select>
           </div>
           <div className="flex flex-col w-full">
