@@ -86,7 +86,7 @@ export default function SignIn() {
             >
               <option value="" disabled>Select your location</option>
               <option value="Abu Hail">Abu Hail</option>
-              <option value="AL Nahda">AL Nahda</option>
+              <option value="Al Nahda">AL Nahda</option>
               <option value="Satwa">Satwa</option>
               <option value="International City">International City</option>
               <option value="Sonapur">Sonapur</option>
@@ -95,7 +95,9 @@ export default function SignIn() {
               <option value="Financial Center">Financial Center</option>
               <option value="Business Bay">Business Bay</option>
               <option value="Baniyas">Baniyas</option>
-              <option value="Al Rigga/Union/Deira">Al Rigga/Union/Deira</option>
+              <option value="Al Rigga">Al Rigga</option>
+              <option value="Deira">Deira</option>
+              <option value="Union">Union</option>
             </select>
           </div>
           <div className="flex flex-col w-full">
